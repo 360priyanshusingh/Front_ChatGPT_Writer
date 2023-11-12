@@ -1,4 +1,4 @@
-ChatGPT Writer Chrome Extension
+## Introduction ChatGPT Writer Chrome Extension
 The ChatGPT Writer Chrome Extension is a powerful tool that transforms your browsing experience by integrating OpenAI's GPT-3.5 language model into a convenient chat interface. This extension empowers users to effortlessly generate human-like text, making it an invaluable companion for content creation, brainstorming, and more.
 
 ## FeaturesKey Features
